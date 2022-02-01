@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJs and Typescript**
 
-- 💬 I am currently working with **React JS and Native, styled-component, GraphQL, Apollo, Express, Postgres, MongoDB**
+- 💬 I am currently working more with **React JS and Native, styled-component, GraphQL, Apollo, Express, Postgres, MongoDB**
 
 - 📫 How to reach me **leonardo.souzadev@gmail.com**
 
