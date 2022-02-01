@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardoosouza1&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoosouza1" /> </p>
 
-- 🔭 I’m currently working at [Plathanus](https://plathanus.com.br/)
+- 👨‍💻 I’m currently working at [Plathanus](https://plathanus.com.br/)
 
 - 🌱 I’m currently learning **NextJs and Typescript**
 
