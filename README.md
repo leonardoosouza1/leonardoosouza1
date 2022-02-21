@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working at [Plathanus](https://plathanus.com.br/)
 
-- 🌱 I’m currently learning **NextJs and Typescript**
+- 🌱 I’m currently learning **Python**
 
 - 💬 I am currently working more with **React JS and Native, styled-component, GraphQL, Apollo, Express, Postgres, MongoDB**
 
