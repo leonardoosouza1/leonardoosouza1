@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Leonardo</h1>
-<h3 align="left">I'm Full Stack Devoloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardoosouza1&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoosouza1" /> </p>
 
