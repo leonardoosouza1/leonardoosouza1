@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leonardoosouza1&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoosouza1" /> </p>
 <h1 align="left">Hi 👋, I'm Leonardo Souza</h1>
 <h3 align="left">I'm Full Stack Devoloper</h3>
 
@@ -18,5 +19,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=leonardoosouza1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardoosouza1&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoosouza1" /> </p>
