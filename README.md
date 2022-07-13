@@ -5,10 +5,6 @@
 
 - 👨‍💻 I’m currently working at [Plathanus](https://plathanus.com.br/)
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 I am currently working more with **Web and Mobile development**
-
 - 📫 How to reach me **leonardo.souzadev@gmail.com**
 
 # 💻 Tech Stack:
