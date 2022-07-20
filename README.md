@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Leonardo Souza</h1>
 <h3 align="left">I'm Full Stack Devoloper</h3>
 
-- 👨‍💻 I’m currently working at [Plathanus](https://plathanus.com.br/)
+- 👨‍💻 I’m currently working at <a href="plathanus.com.br">abc</a> [Plathanus](https://plathanus.com.br/)
 
 - 📫 How to reach me **leonardo.souzadev@gmail.com**
 
