@@ -1,8 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leonardoosouza1&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoosouza1" /> </p>
 <h1 align="left">Hi 👋, I'm Leonardo Souza</h1>
-<h3 align="left">I'm software engineer with full stack developer skills</h3>
-<h5 align="left">I have been developing more web and mobile apps</h5>
-
+<h3 align="left">I'm software engineer with full stack developer skills. I have been developing more web and mobile apps</h3>
 
 - 👨‍💻 I’m currently working at [Plathanus](https://plathanus.com.br/)
 
