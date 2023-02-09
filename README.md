@@ -3,7 +3,7 @@
 <h3 align="left">I'm software engineer with full stack developer skills</h3>
 <h5 align="left">I have been developing more web and mobile apps</h5>
 
-</br>
+
 - 👨‍💻 I’m currently working at [Plathanus](https://plathanus.com.br/)
 
 - 📫 How to reach me **leonardo.souzadev@gmail.com**
