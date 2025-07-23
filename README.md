@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leonardoosouza1&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoosouza1" /> </p>
 <h1 align="left">Hi 👋, I'm Leonardo Souza</h1>
-<h3 align="left">I'm a software engineer with full stack developer skills. I have been developing more web and mobile apps</h3>
+<h3 align="left">I love developing innovative and out-of-the-box solutions. I have full-stack developer skills and experience with web development.</h3>
 
 - 📫 How to reach me **leonardo.souzadev@gmail.com**
 
